@@ -1,3 +1,4 @@
 http://gentium.pixerex.com/wp/
-Saytın responsivlik daxil yığmaq.
+
+Saytı responsivlik daxil yığmaq.
 Bayramınız mübarək!!! Xoş istrahətlər
